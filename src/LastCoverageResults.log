@@ -1,0 +1,21 @@
+[2022-04-25 12:39:04] [info] Start Program:
+Path:"E:\\C++\\MovieQt\\x64\\Debug\\MovieQt.exe"
+Arguments:
+Working directory: "E:\\C++\\MovieQt\\"
+Modules: Selected: E:\C++\MovieQt\x64\Debug\MovieQt.exe Excluded: 
+Sources: Selected: E:\C++\MovieQt Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\iulia\AppData\Local\Temp\r43wo24t.le4 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-04-25 12:39:04] [info] Module: E:\C++\MovieQt\x64\Debug\MovieQt.exe is selected because it matches selected pattern: E:\C++\MovieQt\x64\Debug\MovieQt.exe
+[2022-04-25 12:39:11] [info] ----------------------------------------------------
+[2022-04-25 12:39:11] [info] Coverage binary generated in file: C:\Users\iulia\AppData\Local\Temp\r43wo24t.le4
+[2022-04-25 12:39:11] [info] ----------------------------------------------------
